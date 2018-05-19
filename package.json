@@ -1,0 +1,38 @@
+{
+  "name": "det-starter-kit",
+  "version": "1.0.0",
+  "description": "my dev starter kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "salcerera"
+  },
+  "keywords": [
+    "starter",
+    "kit",
+    "web",
+    "development",
+    "sass",
+    "gulp",
+    "bootstrap",
+    "materialize"
+  ],
+  "author": "salcerera.com",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect-php": "^1.0.3",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "gulp-htmlmin": "^4.0.0"
+  }
+}

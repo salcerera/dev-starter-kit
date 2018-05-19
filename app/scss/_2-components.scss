@@ -1,0 +1,83 @@
+// Add your components here such as custom variables, UI elements, Typorgraphy
+
+
+// Variables
+
+$font-stack: 'Poppins', 'sans-serif';
+$bold: bold;
+$letter-1: lpx;
+$letter-2: 2px;
+$muted: rgba(0,0,0,0.7);
+
+// Color Scheme
+
+
+// Typography
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $font-stack;
+    font-weight: $bold;
+}
+
+h1 {
+    font-size: 5em !important;
+}
+
+h2 {
+    font-size: 4em !important;
+}
+
+h3 {
+    font-size: 3.5em !important;
+}
+
+h4 {
+    font-size: 3em !important;
+}
+
+h5 {
+    font-size: 2.5em !important;
+}
+
+h6 {
+    font-size: 2em !important;
+}
+
+p, a {
+    font-family: $font-stack;
+    font-size: 16px;
+}
+
+.lead {
+    font-size: 18px !important;
+}
+
+.base {
+    font-size: 16px !important;
+}
+
+.muted {
+    color: $muted;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+// Buttons
+
+
+
+
+// Cards
+
+
+
+
+
+// Icons
+
+
+
+
+// Forms
